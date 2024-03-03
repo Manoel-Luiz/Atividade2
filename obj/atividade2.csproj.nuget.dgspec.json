@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/manoel/Desktop/curso/VScode/C#/orientação_a_objeto/atividade/sem_objeto/atividade2/atividade2.csproj": {}
+  },
+  "projects": {
+    "/home/manoel/Desktop/curso/VScode/C#/orientação_a_objeto/atividade/sem_objeto/atividade2/atividade2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/manoel/Desktop/curso/VScode/C#/orientação_a_objeto/atividade/sem_objeto/atividade2/atividade2.csproj",
+        "projectName": "atividade2",
+        "projectPath": "/home/manoel/Desktop/curso/VScode/C#/orientação_a_objeto/atividade/sem_objeto/atividade2/atividade2.csproj",
+        "packagesPath": "/home/manoel/.nuget/packages/",
+        "outputPath": "/home/manoel/Desktop/curso/VScode/C#/orientação_a_objeto/atividade/sem_objeto/atividade2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/manoel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
